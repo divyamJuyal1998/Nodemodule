@@ -1,7 +1,7 @@
 {
-  "name": "node-js-crash-course",
+  "name": "node-js",
   "version": "1.0.0",
-  "description": "This is crash course",
+  "description": "This is node js",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -11,7 +11,7 @@
     "nodejs",
     "javascript"
   ],
-  "author": "Rakesh Kohali <codersgyan@gmail.com>",
+  "author": "Divyam Juyal <divyamj980fficial@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "cli-color": "^2.0.0"
