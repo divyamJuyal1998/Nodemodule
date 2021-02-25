@@ -5,8 +5,8 @@
 // Local module
 // const auth = require('./auth')
 
-// auth.register('codersGyan')
-// auth.login('codersGyan', 'secret')
+// auth.register('Divyam Juyal')
+// auth.login('Divyam Juyal', 'secret')
 
 // Core modules
 const path = require('path')
